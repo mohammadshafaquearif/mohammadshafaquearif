@@ -65,7 +65,7 @@ Software Developer | Full Stack Developer | DevOps & Cloud Enthusiast
 
 ## 🌍 Connect With Me
 
-- 🌐 Portfolio: https://shafaqueportfolio.netlify.app/
+- 🌐 Portfolio: https://shafaque-portfolio.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/mohammad-shafaque-arif/
 - 📝 Hashnode: https://hashnode.com/@mohammadshafaquearif
 - 🐦 X/Twitter: https://x.com/shafaquedev
